@@ -4,7 +4,7 @@ import os
 from urllib import parse
 
 HEADER="""# 
-# 🧑🏻‍💻 Solved Problems
+#  Solved Problems
 
 """
 
