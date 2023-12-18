@@ -30,6 +30,7 @@
 |2557. Hello World|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World/README.md)|
 |2558. A＋B － 2|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2558.%E2%80%85A%EF%BC%8BB%E2%80%85%EF%BC%8D%E2%80%852/A%EF%BC%8BB%E2%80%85%EF%BC%8D%E2%80%852.py)|
 |2562. 최댓값|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2562.%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92/%EC%B5%9C%EB%8C%93%EA%B0%92.py)|
+|2576. 홀수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2576.%E2%80%85%ED%99%80%EC%88%98/%ED%99%80%EC%88%98.py)|
 |2588. 곱셈|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2588.%E2%80%85%EA%B3%B1%EC%85%88/%EA%B3%B1%EC%85%88.py)|
 |3046. R2|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3046.%E2%80%85R2/R2.py)|
 ## 📚 프로그래머스
