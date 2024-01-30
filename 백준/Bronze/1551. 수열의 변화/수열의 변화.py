@@ -1,13 +1,8 @@
 n, k = map(int, input().split())
-num = list(map(int,input().split(",")))
-repeat = 0
+num = list(map(int, input().split(",")))
 new = num.copy()
 
-while repeat < k:
-  number = []
-  for i in range(1, len(new)):
-    number.append(new[i] - new[i-1])
-  repeat += 1
-  new = number.copy()
+for _ in range(k):
+    new = [new[i + 1] - new[i] for i in range(len(new) - 1)]
 
 print(",".join(map(str, new)))
