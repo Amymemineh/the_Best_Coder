@@ -70,6 +70,7 @@
 |1094. 막대기|[링크](./%EB%B0%B1%EC%A4%80/Silver/1094.%E2%80%85%EB%A7%89%EB%8C%80%EA%B8%B0/README.md)|
 |1193. 분수찾기|[링크](./%EB%B0%B1%EC%A4%80/Silver/1193.%E2%80%85%EB%B6%84%EC%88%98%EC%B0%BE%EA%B8%B0/README.md)|
 |1439. 뒤집기|[링크](./%EB%B0%B1%EC%A4%80/Silver/1439.%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0/README.md)|
+|1475. 방 번호|[링크](./%EB%B0%B1%EC%A4%80/Silver/1475.%E2%80%85%EB%B0%A9%E2%80%85%EB%B2%88%ED%98%B8/README.md)|
 ## 📚 프로그래머스
 ### 🚀 1
 | 문제번호 | 링크 |
