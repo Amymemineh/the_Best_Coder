@@ -74,6 +74,7 @@
 |1476. 날짜 계산|[링크](./%EB%B0%B1%EC%A4%80/Silver/1476.%E2%80%85%EB%82%A0%EC%A7%9C%E2%80%85%EA%B3%84%EC%82%B0/README.md)|
 |1531. 투명|[링크](./%EB%B0%B1%EC%A4%80/Silver/1531.%E2%80%85%ED%88%AC%EB%AA%85/README.md)|
 |1543. 문서 검색|[링크](./%EB%B0%B1%EC%A4%80/Silver/1543.%E2%80%85%EB%AC%B8%EC%84%9C%E2%80%85%EA%B2%80%EC%83%89/README.md)|
+|1652. 누울 자리를 찾아라|[링크](./%EB%B0%B1%EC%A4%80/Silver/1652.%E2%80%85%EB%88%84%EC%9A%B8%E2%80%85%EC%9E%90%EB%A6%AC%EB%A5%BC%E2%80%85%EC%B0%BE%EC%95%84%EB%9D%BC/README.md)|
 ## 📚 프로그래머스
 ### 🚀 1
 | 문제번호 | 링크 |
