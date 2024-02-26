@@ -1,8 +1,9 @@
 n, m = map(int, input().split())
-cnt = 1
-box = m
 
-if n != 0: 
+if n == 0: print(0)
+else: 
+  cnt = 1
+  box = m
   book = list(map(int, input().split()))
   for i in book:
     if box < i:
@@ -10,5 +11,3 @@ if n != 0:
       cnt += 1
     box -= i  
   print(cnt)
-
-else: print(0)
