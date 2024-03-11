@@ -1,6 +1,6 @@
 n, m = map(int, input().split())
 dna = [input() for _ in range(n)]
-result = []
+result = ''
 ham_distance = 0
 
 
@@ -11,8 +11,8 @@ for i in range(m):
     
   ham = max(dna_dic.values())
   answer = sorted([key for key, value in dna_dic.items() if value == ham])
-  result.append(answer[0])
+  result += answer[0]
   ham_distance += n - ham 
 
-print(''.join(result), ham_distance, sep = '\n')
+print(result, ham_distance, sep = '\n')
     
