@@ -69,6 +69,7 @@
 |2588. 곱셈|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2588.%E2%80%85%EA%B3%B1%EC%85%88/README.md)|
 |2712. 미국 스타일|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2712.%E2%80%85%EB%AF%B8%EA%B5%AD%E2%80%85%EC%8A%A4%ED%83%80%EC%9D%BC/README.md)|
 |3046. R2|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3046.%E2%80%85R2/R2.py)|
+|7287. 등록|[링크](./%EB%B0%B1%EC%A4%80/Bronze/7287.%E2%80%85%EB%93%B1%EB%A1%9D/README.md)|
 ### 🚀 Silver
 | 문제번호 | 링크 |
 | ----- | ----- |
