@@ -1,0 +1,1 @@
+print("14", "amymemine", end='\n')
