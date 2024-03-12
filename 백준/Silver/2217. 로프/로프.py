@@ -1,13 +1,12 @@
 import sys
-input = sys.stdin.readline
 
+# 입력 받기
+input = sys.stdin.readline
 n = int(input())
 rope = sorted([int(input()) for _ in range(n)])
-answer = 0
 
-for i in range(n):
-  weight = rope[i] * (n-i)
-  if weight > answer:
-    answer = weight
+# 최대 무게 계산
+answer = max(rope[i] * (n - i) for i in range(n))
 
+# 결과 출력
 print(answer)
