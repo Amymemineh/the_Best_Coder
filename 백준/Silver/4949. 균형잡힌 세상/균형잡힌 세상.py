@@ -1,6 +1,3 @@
-# import sys
-# input = sys.stdin.read
-
 while True:
   text = input()
   if text == ".": break
