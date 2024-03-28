@@ -1,19 +1,17 @@
-n,m=map(int,input().split())
-dic={}
+n,m = map(int,input().split())
+dic = {}
 
 for _ in range(n):
   team = input()
-  num = int(input())
-  member = sorted([input() for _ in range(num)])
+  member = sorted([input() for _ in range(int(input()))])
   dic[team] = member
 
 for _ in range(m):
   quiz = input()
   kind = int(input())
   if kind == 0:
-    for i in dic[quiz]:
-      print(i)
+    print(*dic[quiz], sep = '\n')
   else:
-    for key in dic.keys():
-      if quiz in dic[key]:
+    for key, value in dic.items():
+      if quiz in value:
         print(key)
